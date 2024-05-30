@@ -4,9 +4,10 @@ import image from "./images/mynaui_download.svg";
 import checkmark from "./images/eva_checkmark-outline.svg";
 import back from "./images/lets-icons_refund-back.svg";
 import { API_URL } from "./env";
+import Background from "./Components/background/background";
 
 function App() {
-  const [flag, setFlag] = useState(false);
+  const [flag, setFlag] = useState(true);
   const [file, setFile] = useState(null);
 
   const handleFileChange = (event) => {
@@ -43,6 +44,7 @@ function App() {
 
   return (
     <div className="App">
+      <Background />
       <div className={`container ${flag ? "uploaded" : ""}`}>
         {!flag ? (
           <div className="upload-image">
