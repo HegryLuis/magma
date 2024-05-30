@@ -7,7 +7,7 @@ import { API_URL } from "./env";
 import Background from "./Components/background/background";
 
 function App() {
-  const [flag, setFlag] = useState(true);
+  const [flag, setFlag] = useState(false);
   const [file, setFile] = useState(null);
 
   const handleFileChange = (event) => {
