@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/HegryLuis/magma/static/css/main.ba50fc15.css",
+    "main.js": "/HegryLuis/magma/static/js/main.0aadc202.js",
+    "static/media/background.png": "/HegryLuis/magma/static/media/background.2fe30a73e4be22f2acd7.png",
+    "static/media/lets-icons_refund-back.svg": "/HegryLuis/magma/static/media/lets-icons_refund-back.2028cc0fe86d201091f0bb543e9a03bf.svg",
+    "static/media/eva_checkmark-outline.svg": "/HegryLuis/magma/static/media/eva_checkmark-outline.3dfb73d06664d3a4e8621180bf900ea9.svg",
+    "static/media/mynaui_download.svg": "/HegryLuis/magma/static/media/mynaui_download.33b80d9d69ae168969bd9cae66f7b78f.svg",
+    "index.html": "/HegryLuis/magma/index.html",
+    "main.ba50fc15.css.map": "/HegryLuis/magma/static/css/main.ba50fc15.css.map",
+    "main.0aadc202.js.map": "/HegryLuis/magma/static/js/main.0aadc202.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba50fc15.css",
+    "static/js/main.0aadc202.js"
+  ]
+}
