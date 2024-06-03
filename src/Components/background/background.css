@@ -1,5 +1,6 @@
 .overlay {
   position: absolute;
+  user-select: none;
 }
 
 .background-image {
